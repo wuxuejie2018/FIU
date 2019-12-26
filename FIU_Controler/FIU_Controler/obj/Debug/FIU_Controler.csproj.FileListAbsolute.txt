@@ -1,0 +1,12 @@
+D:\FIU_CAN\FIU_Controler\FIU_Controler\bin\Debug\FIU_Controler.exe.config
+D:\FIU_CAN\FIU_Controler\FIU_Controler\bin\Debug\FIU_Controler.exe
+D:\FIU_CAN\FIU_Controler\FIU_Controler\bin\Debug\FIU_Controler.pdb
+D:\FIU_CAN\FIU_Controler\FIU_Controler\obj\Debug\FIU_Controler.Properties.Resources.resources
+D:\FIU_CAN\FIU_Controler\FIU_Controler\obj\Debug\FIU_Controler.csproj.GenerateResource.cache
+D:\FIU_CAN\FIU_Controler\FIU_Controler\obj\Debug\FIU_Controler.exe
+D:\FIU_CAN\FIU_Controler\FIU_Controler\obj\Debug\FIU_Controler.pdb
+D:\FIU_CAN\FIU_Controler\FIU_Controler\obj\Debug\FIU_Controler.FIU_C.resources
+D:\FIU_CAN\FIU_Controler\FIU_Controler\obj\Debug\FIU_Controler.Operator_F.resources
+D:\FIU_CAN\FIU_Controler\FIU_Controler\bin\Debug\SeeSharpTools.JY.GUI.dll
+D:\FIU_CAN\FIU_Controler\FIU_Controler\bin\Debug\SeeSharpTools.JY.GUI.xml
+D:\FIU_CAN\FIU_Controler\FIU_Controler\obj\Debug\FIU_Controler.csprojResolveAssemblyReference.cache
